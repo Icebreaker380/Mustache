@@ -18,5 +18,5 @@ canvas
 @keyframes Dulitha
 {
     from {box-shadow: 1px 1px 38px cyan;}
-    to {box-shadow: 1px 1px 38px lightseagreen;}
+    to {box-shadow: 1px 1px 38px rgb(0, 255, 76);}
 }
